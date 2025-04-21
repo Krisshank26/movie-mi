@@ -89,10 +89,10 @@ GitHub Repository
 
 💻 Pictures Of UI/ UX 
 
-![Movies Section ](./src/assets/Screenshot from 2025-04-21 20-35-19.png ) 
+![Movies Section ](./src/assets/Screenshot%20from%202025-04-21%2020-35-19.png) 
 
 
-![Watchlist Section ](./src/assets/Screenshot from 2025-04-21 20-35-58.png )
+![Watchlist Section ](./src/assets/Screenshot%20from%202025-04-21%2020-35-58.png)
 
 
-![Watchlist Section ](./src/assets/Screenshot from 2025-04-21 20-36-46.png ) 
+![Watchlist Section ](./src/assets/Screenshot%20from%202025-04-21%2020-36-46.png) 
